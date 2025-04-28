@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 28/04/2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -225,25 +225,25 @@ City.html
 
 ## OUTPUT
 
-Map.html
+
 ![Screenshot 2025-04-28 195120](https://github.com/user-attachments/assets/813bbd26-d4f6-40fc-8de9-5bd6cfd279de)
 
-Temple.html
+
 ![Screenshot 2025-04-28 195723](https://github.com/user-attachments/assets/6cbe7f67-7eb0-495f-9d73-cf31ad183785)
 
-Mall.html
+
 ![Screenshot 2025-04-28 195604](https://github.com/user-attachments/assets/7cff84f7-80a2-4a22-a32d-a36b70d830d7)
 
-Movie.html
+
 ![Screenshot 2025-04-28 195649](https://github.com/user-attachments/assets/abd7d014-22c0-48ec-9402-7304f57c915d)
 
-Beach.html
+
 ![Screenshot 2025-04-28 195447](https://github.com/user-attachments/assets/648ca186-25cf-4427-b6f4-11c32bddfe8e)
 
-Airport.html
+
 ![Screenshot 2025-04-28 195229](https://github.com/user-attachments/assets/5fc8822f-2286-48ae-bfd6-724aaa2ba189)
 
-City.html
+
 ![Screenshot 2025-04-28 195529](https://github.com/user-attachments/assets/a795f42b-c8c5-4814-8c75-97d44e77f5c2)
 
 
